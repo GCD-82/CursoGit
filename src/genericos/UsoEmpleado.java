@@ -26,7 +26,7 @@ public class UsoEmpleado {
         for (Empleado e: listaEmpleados){
             System.out.println(e.dameDatos());
         }
-        System.out.println("  ");
+        System.out.println("   ");
 
         Empleado arrayEmpleados []  = new Empleado[listaEmpleados.size()];
 
